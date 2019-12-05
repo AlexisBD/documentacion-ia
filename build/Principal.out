@@ -1,0 +1,20 @@
+\BOOKMARK [1][-]{section.1}{Introduccion}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Objetivo general}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Objetivos espec\355ficos}{section.1}% 3
+\BOOKMARK [1][-]{section.2}{Marco te\363rico}{}% 4
+\BOOKMARK [2][-]{subsection.2.1}{Cromatograf\355a del suelo}{section.2}% 5
+\BOOKMARK [1][-]{section.3}{Desarrollo del proyecto}{}% 6
+\BOOKMARK [2][-]{subsection.3.1}{Equipo utilizado}{section.3}% 7
+\BOOKMARK [3][-]{subsubsection.3.1.1}{Hardware}{subsection.3.1}% 8
+\BOOKMARK [3][-]{subsubsection.3.1.2}{Software}{subsection.3.1}% 9
+\BOOKMARK [2][-]{subsection.3.2}{Caracter\355sticas de la Aplicaci\363n}{section.3}% 10
+\BOOKMARK [2][-]{subsection.3.3}{Patrones a detectar}{section.3}% 11
+\BOOKMARK [2][-]{subsection.3.4}{Extracci\363n de caracter\355sticas}{section.3}% 12
+\BOOKMARK [3][-]{subsubsection.3.4.1}{Detecci\363n de contorno}{subsection.3.4}% 13
+\BOOKMARK [3][-]{subsubsection.3.4.2}{Detecci\363n de lineas}{subsection.3.4}% 14
+\BOOKMARK [3][-]{subsubsection.3.4.3}{Detecci\363n de colores}{subsection.3.4}% 15
+\BOOKMARK [3][-]{subsubsection.3.4.4}{Detecci\363n de patrones}{subsection.3.4}% 16
+\BOOKMARK [2][-]{subsection.3.5}{Validaci\363n cruzada}{section.3}% 17
+\BOOKMARK [2][-]{subsection.3.6}{Red neuronal de retropropagaci\363n}{section.3}% 18
+\BOOKMARK [1][-]{section.4}{Resultados obtenidos}{}% 19
+\BOOKMARK [1][-]{section.4}{References}{}% 20

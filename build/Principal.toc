@@ -1,0 +1,42 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {spanish}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Introduccion}{3}{section.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.1}Objetivo general}{3}{subsection.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2}Objetivos espec\IeC {\'\i }ficos}{3}{subsection.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}Marco te\IeC {\'o}rico}{3}{section.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1}Cromatograf\IeC {\'\i }a del suelo}{3}{subsection.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}Desarrollo del proyecto}{5}{section.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1}Equipo utilizado}{5}{subsection.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.1.1}Hardware}{5}{subsubsection.3.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.1.2}Software}{5}{subsubsection.3.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2}Caracter\IeC {\'\i }sticas de la Aplicaci\IeC {\'o}n}{6}{subsection.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3}Patrones a detectar}{6}{subsection.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4}Extracci\IeC {\'o}n de caracter\IeC {\'\i }sticas}{7}{subsection.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.4.1}Detecci\IeC {\'o}n de contorno}{7}{subsubsection.3.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.4.2}Detecci\IeC {\'o}n de lineas}{7}{subsubsection.3.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.4.3}Detecci\IeC {\'o}n de colores}{7}{subsubsection.3.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.4.4}Detecci\IeC {\'o}n de patrones}{7}{subsubsection.3.4.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.5}Validaci\IeC {\'o}n cruzada}{7}{subsection.3.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.6}Red neuronal de retropropagaci\IeC {\'o}n}{7}{subsection.3.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}Resultados obtenidos}{7}{section.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{References}{7}{section.4}
